@@ -1,1 +1,1 @@
-Tuyềni:0.tcp.ap.ngrok.io:16633:0:0
+Tuyềni:0.tcp.ap.ngrok.io:14433:0:0
